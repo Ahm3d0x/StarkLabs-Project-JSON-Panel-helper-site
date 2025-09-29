@@ -2,7 +2,7 @@
 
 A modern, responsive admin panel for managing and generating 3D printing project data in JSON format. Built with Tailwind CSS, this tool simplifies the process of creating and managing 3D printing project metadata with an intuitive user interface.
 
-![Project Preview](https://via.placeholder.com/800x450/1e293b/ffffff?text=StarkLabs+Project+Panel)
+![Project Preview](Screenshot.png)
 
 ## ✨ Features
 
